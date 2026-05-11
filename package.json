@@ -1,0 +1,39 @@
+{
+  "name": "e-iskolčenje",
+  "private": true,
+  "version": "1.1.0",
+  "author": "Amer Moco",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor-community/sqlite": "^8.1.0",
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/app": "^8.1.0",
+    "@capacitor/browser": "^8.0.3",
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/filesystem": "^8.0.0",
+    "@capawesome/capacitor-file-picker": "^8.0.0",
+    "capacitor-save-as": "^0.1.9",
+    "geotiff": "^3.0.5",
+    "html2pdf.js": "^0.13.0",
+    "lucide-react": "^0.562.0",
+    "proj4": "^2.20.8",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "sql.js": "^1.14.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "tailwindcss": "^4.2.2",
+    "terser": "^5.44.1",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
