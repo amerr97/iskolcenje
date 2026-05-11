@@ -54,7 +54,7 @@ const Sidebar: React.FC<SidebarProps> = ({
   isOpen,
   onClose,
   hasUpdateBadge = false,
-  appVersionLabel = '1.0.0',
+  appVersionLabel = 'Web verzija',
 }) => {
   const menuItems = [
     { id: 'job', label: 'Posao', icon: Briefcase },
