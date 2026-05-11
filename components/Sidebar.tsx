@@ -124,7 +124,7 @@ const Sidebar: React.FC<SidebarProps> = ({
         </nav>
 
         <div className="p-4 bg-slate-900/50">
-          <p className="text-[10px] text-slate-500 text-center font-medium uppercase tracking-widest italic opacity-50">{/*`v${appVersionLabel}`*/}
+          <p className="text-[10px] text-slate-500 text-center font-medium uppercase tracking-widest italic opacity-50"> Web verzija{/*`v${appVersionLabel}`*/}
           </p>
         </div>
       </aside>
