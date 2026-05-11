@@ -65,7 +65,7 @@ const Sidebar: React.FC<SidebarProps> = ({
     { id: 'elements', label: 'Elementi iskolčenja', icon: List },
     { id: 'sketch', label: 'Skica', icon: MapIcon },
     { id: 'export', label: 'Izvezi', icon: Download },
-    { id: 'updates', label: 'Provjeri ažuriranja', icon: RefreshCw },
+   // { id: 'updates', label: 'Provjeri ažuriranja', icon: RefreshCw },
     { id: 'about', label: 'O aplikaciji', icon: Info },
   ];
 
